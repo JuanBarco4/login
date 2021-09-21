@@ -1,0 +1,18 @@
+.login-background {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.banner-login img{
+    width: 34.5rem;
+    align-self: flex-end;
+    margin-top: -10rem;
+}
+
+.formulario-login{
+    border-radius: 4rem 4rem 4rem 4rem;
+    margin-top: 5rem;
+}
